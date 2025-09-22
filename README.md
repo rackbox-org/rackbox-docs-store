@@ -1,2 +1,2 @@
-# svc-docs-store
+# rackbox-docs-store
 Infrastructure abstraction for document storage.
